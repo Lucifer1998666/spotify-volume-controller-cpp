@@ -1,6 +1,6 @@
 {
-    "client_id": "Your client id here",
-    "client_secret": "Your client secret here",
+    "client_id": 685b8d1d105c40d29052a841db866b74,
+    "client_secret": 80e50612e1b84ea3a958d368c5ed0bdc,
     "redirect_url": "http://localhost:5000/callback",
     "volume_up": "default",
     "volume_down": "default",
